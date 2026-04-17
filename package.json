@@ -1,0 +1,13 @@
+{
+  "name": "file-versioning",
+  "version": "1.0.0",
+  "description": "Git-style version control for any file. Snapshots, diffs, tags, restore — no git required.",
+  "main": "version_engine.js",
+  "scripts": {
+    "test": "node version_engine.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
